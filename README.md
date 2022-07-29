@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @naqeebghazi
-- 👀 I’m interested in DevOps/Cloud
-- 🌱 I’m currently learning the AWS Solutions Architect Associate
-- 💞️ I’m looking to collaborate Junior Devops/Cloud projects
-- 📫 How to reach me via my LinkedIn page: https://www.linkedin.com/in/naqeeb-ghazi-6b04a545/
+- 👋 Hi, I’m Naqeeb
+- 👀 Interests are primarily in DevOps/Cloud tech
+- 🌱 Current learning is around AWS Architectures and Terraform
+- 💞️ Seeking to collaborate on open-source projects
+- 📫 How to reach me via my LinkedIn page https://www.linkedin.com/in/naqeebghazi/
 
 <!---
 naqeebghazi/naqeebghazi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
