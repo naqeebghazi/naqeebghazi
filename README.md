@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Naqeeb, a Cloud/DevOps Engineer working @Capgemini
-- 👀 Interests: distributed systems, containerisation 
-- 🌱 Current completing certifications in AWS and K8s.
+##👋 Hi, I’m Naqeeb, a Cloud/DevOps Engineer working @Capgemini
+- 👀 Interests: distributed systems, containerisation, IaaC
+- 🌱 Currently developing skills in AWS, Azure, K8s and Ansible.
 - 💞️ Seeking to collaborate on open-source projects
 - 📫 How to reach me via my LinkedIn page https://www.linkedin.com/in/naqeebghazi/
 
